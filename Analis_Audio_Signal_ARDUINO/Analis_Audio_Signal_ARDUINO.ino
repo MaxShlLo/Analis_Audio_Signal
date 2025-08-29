@@ -3,14 +3,14 @@
 #define BRIGHTNESS 7     // яркость матрицы (0 - 15)
 
 // сигнал
-#define INPUT_GAIN 15    // коэффициент усиления входного сигнала
-#define LOW_PASS 40       // нижний порог чувствительности шумов (нет скачков при отсутствии звука)
+#define INPUT_GAIN 28    // коэффициент усиления входного сигнала
+#define LOW_PASS 37       // нижний порог чувствительности шумов (нет скачков при отсутствии звука)
 #define MAX_COEF 1.25      // коэффициент, который делает "максимальные" пики чуть меньше максимума, для более приятного восприятия
 #define NORMALIZE 0       // нормализовать пики (столбики низких и высоких частот будут одинаковой длины при одинаковой громкости) (1 вкл, 0 выкл)
 
 // анимация
-#define SMOOTH 0.4        // плавность движения столбиков (0 - 1)
-#define DELAY 4           // задержка между обновлениями матрицы (периодичность основного цикла), миллиисекунды
+#define SMOOTH 0.5        // плавность движения столбиков (0 - 1)
+#define DELAY 6           // задержка между обновлениями матрицы (периодичность основного цикла), миллиисекунды
 
 // громкость
 #define DEF_GAIN 200       // максимальный порог по умолчанию (при MANUAL_GAIN или AUTO_GAIN игнорируется)
@@ -19,8 +19,8 @@
 
 // точки максимума
 #define MAX_DOTS 1        // включить/выключить отрисовку точек максимума (1 вкл, 0 выкл)
-#define FALL_DELAY 150     // скорость падения точек максимума (задержка, миллисекунды)
-#define FALL_PAUSE 300    // пауза перед падением точек максимума, миллисекунды
+#define FALL_DELAY 250     // скорость падения точек максимума (задержка, миллисекунды)
+#define FALL_PAUSE 400    // пауза перед падением точек максимума, миллисекунды
 
 // массив тонов, расположены примерно по параболе. От 80 Гц до 16 кГц
 byte posOffset[33] = {
@@ -95,6 +95,9 @@ int sample = analogRead(A0); // або AUDIO_IN
 
     for (int i = 0; i < 128; i ++) {
       // вот здесь сразу фильтруем весь спектр по минимальному LOW_PASS
+     // static int noiseFloor = LOW_PASS;
+      //noiseFloor = noiseFloor * 1.9 + fht_log_out[i] * 0.1; // плавно оновлюємо
+      //if (fht_log_out[i] < noiseFloor + 5) fht_log_out[i] = 0;
       if (fht_log_out[i] < LOW_PASS) fht_log_out[i] = 0;
 
       // усиляем сигнал
@@ -170,7 +173,7 @@ int sample = analogRead(A0); // або AUDIO_IN
       if (millis() - gainTimer > 10) {      // каждые 10 мс
         maxValue_f = maxValue * k + maxValue_f * (1 - k);
         // если максимальное значение больше порога, взять его как максимум для отображения
-        if (maxValue_f > LOW_PASS) gain = (float) MAX_COEF * maxValue_f;
+        if (maxValue_f > LOW_PASS) gain = (float)MAX_COEF * log(1 + maxValue_f) * 50;
         // если нет, то взять порог побольше, чтобы шумы вообще не проходили
         else gain = 100;
         gainTimer = millis();
@@ -179,10 +182,18 @@ int sample = analogRead(A0); // або AUDIO_IN
   }
 }
 
+int analogReadAvg(byte pin) {
+  int sum = 0;
+  for (byte j = 0; j < 4; j++) sum += analogRead(pin); // 4 сэмпла
+  return sum >> 2; // поділити на 4
+}
+
+
 void analyzeAudio() {
   for (int i = 0 ; i < FHT_N ; i++) {
     int sample = analogRead(AUDIO_IN);
     fht_input[i] = sample; // put real data into bins
+    //fht_input[i] = analogReadAvg(AUDIO_IN);
   }
   fht_window();  // window the data for better frequency response
   fht_reorder(); // reorder the data before doing the fht
