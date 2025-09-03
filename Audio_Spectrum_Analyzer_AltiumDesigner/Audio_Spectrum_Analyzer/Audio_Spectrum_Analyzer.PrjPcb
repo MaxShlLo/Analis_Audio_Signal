@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HNGLPYVK
 
 [Document10]
-DocumentPath=AJAXProject.OutJob
+DocumentPath=Audio_Spectrum_Analyzer.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
