@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\Downloads\TA08-81GWA\DISPLAY_TA08-81GWA.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UHTKNSPO
+
+[Document2]
 DocumentPath=LDM13488MI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWNHCQEJ
 
-[Document2]
+[Document3]
 DocumentPath=MAX4466EXK\SOT65P210X110-5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSYNQKSH
 
-[Document3]
+[Document4]
 DocumentPath=ASA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YQCKEBWD
 
-[Document4]
+[Document5]
+DocumentPath=..\..\..\Downloads\TA08-81GWA\TA08-81GWA.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FRQUGDWZ
+
+[Document6]
 DocumentPath=MAX4466EXK\MAX4466EXK.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMABEGEF
 
-[Document5]
+[Document7]
 DocumentPath=STM8S103F3P6\STM8S103F3P6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IURORFFJ
 
-[Document6]
+[Document8]
 DocumentPath=MAX7219CWGT\MAX7219CWGT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWGLYGPX
 
-[Document7]
+[Document9]
 DocumentPath=LDM-13488MI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAYZEPSP
 
-[Document8]
+[Document10]
 DocumentPath=MAX7219CWGT\SOIC127P1032X265-24N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGPWGUPR
 
-[Document9]
+[Document11]
 DocumentPath=STM8S103F3P6\SOP65P640X120-20N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNGLPYVK
 
-[Document10]
+[Document12]
 DocumentPath=Audio_Spectrum_Analyzer.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,6 +252,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document13]
+DocumentPath=Audio_Spectrum_Analyzer.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Audio_Spectrum_Analyzer\Design Rule Check - ASA.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
