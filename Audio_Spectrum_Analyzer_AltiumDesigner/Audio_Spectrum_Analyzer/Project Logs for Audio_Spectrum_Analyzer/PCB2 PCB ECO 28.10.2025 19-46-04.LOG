@@ -1,0 +1,5 @@
+Change Footprint: Footprint Not Found FP-C0402-BB-MFG
+Change Managed Component Library Link : Designator=C16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A54F6EF1-7C3F-476F-9E76-83D822AEF831 New ItemGUID=09D65C76-2282-4DED-878F-3BB50994FE64 Old RevisionGUID=2D648FF6-CAE4-4FF7-AEC6-01F6C6347469 New RevisionGUID=ABB07F9A-5C20-41ED-947E-C3D16A97603D
+Change component parameters: Designator = "C16" ("C16"); Footprint = "FP-C0402-BB-MFG"; UniqueID = "\AGXRBNTB" ("\AGXRBNTB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0603A101FXAAC"; VariantName = "[No Variations]"

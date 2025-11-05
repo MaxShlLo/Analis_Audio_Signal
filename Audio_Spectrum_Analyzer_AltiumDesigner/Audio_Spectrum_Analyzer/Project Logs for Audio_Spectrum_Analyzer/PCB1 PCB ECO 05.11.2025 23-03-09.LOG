@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=J?-A1/B12
+Removed Pin From Net: NetName=NetF1_1 Pin=J?-A4/B9
+Removed Pin From Net: NetName=GND Pin=J?-B1/A12
+Removed Pin From Net: NetName=NetF1_1 Pin=J?-B4/A9
+Removed Member From Class: ClassName=ASA Member=J?
+Added Component: Designator=J1(AMPHENOL_10164359-00011LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1016435900011LF/Amphenol/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1016435900011LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1016435900011LF/Amphenol/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=NetF1_1 Pin=J1-B9
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=J1-SH1
+Added Pin To Net: NetName=GND Pin=J1-SH2
+Added Pin To Net: NetName=GND Pin=J1-SH3
+Added Pin To Net: NetName=GND Pin=J1-SH4
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R3-1
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R4-1
+Added Net: Name=NetJ1_B5
+Added Member To Class: ClassName=ASA Member=Component J1 10164359-00011LF

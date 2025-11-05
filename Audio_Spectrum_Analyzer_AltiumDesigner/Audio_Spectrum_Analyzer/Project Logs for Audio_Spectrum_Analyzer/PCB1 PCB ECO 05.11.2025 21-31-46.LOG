@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetJ1_A5 Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetJ1_B5 Pin=R4-2
+Removed Member From Class: ClassName=ASA Member=R4
+Change Component Footprint: Designator=R3 Old Footprint=FP-RN73R1E-IPC_C New Footprint=FP-RK73H2H-MFG
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=22E72CC3-F66E-4922-8FD4-5F8A44CD0635 New ItemGUID=6F2A1253-F3F1-4CD5-9054-0952E0079635 Old RevisionGUID=5F7E5212-86BD-4FC5-9247-C280BC0284B3 New RevisionGUID=224F5EE1-35FE-4304-B1FD-55344F0165FC
+Change component parameters: Designator = "R3" ("R3"); Footprint = "FP-RN73R1E-IPC_C"; UniqueID = "\EZJYKMCL" ("\EZJYKMCL")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP-RK73H2H-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_A5 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetJ1_B5 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Member To Class: ClassName=ASA Member=Component R? 5.1k

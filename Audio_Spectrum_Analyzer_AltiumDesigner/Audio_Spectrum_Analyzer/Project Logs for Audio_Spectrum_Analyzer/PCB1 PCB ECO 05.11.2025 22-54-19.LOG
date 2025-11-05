@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=J1-A1/B12
+Removed Pin From Net: NetName=NetF1_1 Pin=J1-A4/B9
+Removed Pin From Net: NetName=GND Pin=J1-B1/A12
+Removed Pin From Net: NetName=NetF1_1 Pin=J1-B4/A9
+Removed Member From Class: ClassName=ASA Member=J1
+Change Component Footprint: Designator=C12 Old Footprint=FP-CGA3E-0_3-0_1-IPC_A New Footprint=CAPC1608X95N
+Change Component Comment : Designator=C12 Old Comment=CGA3E2X8R2A103K080AD New Comment=10n
+Change Managed Component Library Link : Designator=C12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E4A51B88-AC94-4BC5-98A4-74DBB1B894C3 New ItemGUID= Old RevisionGUID=1F3DA572-E6FA-43FB-B71F-E2986A08ECD0 New RevisionGUID=
+Change component parameters: Designator = "C12" ("C12"); Footprint = "FP-CGA3E-0_3-0_1-IPC_A"; UniqueID = "\OKRPVLRK" ("\OKRPVLRK")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CGA3E2X8R2A103K080AD/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CGA3E2X8R2A103K080AD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CGA3E2X8R2A103K080AD/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(216990-0002_MOL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Molex'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2169900002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-A1/B12
+Added Pin To Net: NetName=NetF1_1 Pin=J?-A4/B9
+Added Pin To Net: NetName=GND Pin=J?-B1/A12
+Added Pin To Net: NetName=NetF1_1 Pin=J?-B4/A9
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A5 Pin=R3-1
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=NetJ?_B5 Pin=R4-1
+Added Net: Name=NetJ?_B5
+Added Member To Class: ClassName=ASA Member=Component J? 2169900002
