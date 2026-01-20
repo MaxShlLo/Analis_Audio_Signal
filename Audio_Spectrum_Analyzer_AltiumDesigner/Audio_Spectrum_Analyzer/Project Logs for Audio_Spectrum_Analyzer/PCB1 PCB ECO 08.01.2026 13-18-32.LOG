@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=SCK Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=SCK_H Pin=U5-4
+Removed Pin From Net: NetName=5V Pin=U5-5
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=MOSI Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=MOSI_H Pin=U6-4
+Removed Pin From Net: NetName=5V Pin=U6-5
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=LOAD Pin=U7-2
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=LOAD_H Pin=U7-4
+Removed Pin From Net: NetName=5V Pin=U7-5
+Added Component: Designator=U5(DCK0005A_M)
+Add component (AddParameter): Name = "3-State Output"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCLS504B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74AHCT1G125-Q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "8/-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Family"; Value = "Non-Inverting Buffer/Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "AHCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U6(DCK0005A_M)
+Add component (AddParameter): Name = "3-State Output"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCLS504B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74AHCT1G125-Q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "8/-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Family"; Value = "Non-Inverting Buffer/Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "AHCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U7(DCK0005A_M)
+Add component (AddParameter): Name = "3-State Output"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCLS504B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74AHCT1G125-Q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "8/-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Family"; Value = "Non-Inverting Buffer/Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "AHCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=SCK Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=SCK_H Pin=U5-4
+Added Pin To Net: NetName=5V Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=MOSI Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=MOSI_H Pin=U6-4
+Added Pin To Net: NetName=5V Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=LOAD Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=LOAD_H Pin=U7-4
+Added Pin To Net: NetName=5V Pin=U7-5

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC12_1 Pin=C12-1
+Removed Pin From Net: NetName=NetC12_2 Pin=C12-2
+Added Component: Designator=C12(CAPC3216X178N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1206ZD106KAT2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1206ZD106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1206ZD106KAT2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Member To Class: ClassName=ASA Member=Component C3 1206ZD106KAT2A
+Added Member To Class: ClassName=ASA Member=Component C5 CL31B105KCHNFNE
+Added Member To Class: ClassName=ASA Member=Component C6 CL31B105KCHNFNE
+Added Member To Class: ClassName=ASA Member=Component C16 CL31B105KCHNFNE

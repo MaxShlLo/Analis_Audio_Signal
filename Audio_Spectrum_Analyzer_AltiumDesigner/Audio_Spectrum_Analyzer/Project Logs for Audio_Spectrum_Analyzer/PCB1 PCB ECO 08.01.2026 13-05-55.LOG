@@ -1,0 +1,565 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=5V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=+3V3 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=NRST Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=5V Pin=C8-1
+Removed Pin From Net: NetName=5V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=Mic_OUT Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=5V Pin=F1-2
+Removed Pin From Net: NetName=GND Pin=J1-A12
+Removed Pin From Net: NetName=GND Pin=J1-B12
+Removed Pin From Net: NetName=GND Pin=J1-SH1
+Removed Pin From Net: NetName=GND Pin=J1-SH2
+Removed Pin From Net: NetName=GND Pin=J1-SH3
+Removed Pin From Net: NetName=GND Pin=J1-SH4
+Removed Pin From Net: NetName=NetC12_1 Pin=LS1-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=3V3 Pin=R5-1
+Removed Pin From Net: NetName=NRST Pin=R5-2
+Removed Pin From Net: NetName=5V Pin=R6-2
+Removed Pin From Net: NetName=5V Pin=R7-2
+Removed Pin From Net: NetName=5V Pin=R8-2
+Removed Pin From Net: NetName=NetC12_1 Pin=R9-1
+Removed Pin From Net: NetName=NetC12_2 Pin=R10-1
+Removed Pin From Net: NetName=5V Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=NetC12_2 Pin=R12-2
+Removed Pin From Net: NetName=NetC15_1 Pin=R13-2
+Removed Pin From Net: NetName=NetC15_1 Pin=R14-1
+Removed Pin From Net: NetName=Mic_OUT Pin=R14-2
+Removed Pin From Net: NetName=+3V3 Pin=U1-4
+Removed Pin From Net: NetName=K1_2 Pin=U2-2
+Removed Pin From Net: NetName=K5_2 Pin=U2-3
+Removed Pin From Net: NetName=K7_2 Pin=U2-5
+Removed Pin From Net: NetName=K3_2 Pin=U2-6
+Removed Pin From Net: NetName=K4_2 Pin=U2-7
+Removed Pin From Net: NetName=K8_2 Pin=U2-8
+Removed Pin From Net: NetName=K6_2 Pin=U2-10
+Removed Pin From Net: NetName=K2_2 Pin=U2-11
+Removed Pin From Net: NetName=À1_2 Pin=U2-14
+Removed Pin From Net: NetName=À7_2 Pin=U2-15
+Removed Pin From Net: NetName=À2_2 Pin=U2-16
+Removed Pin From Net: NetName=À8_2 Pin=U2-17
+Removed Pin From Net: NetName=NetR2_2 Pin=U2-18
+Removed Pin From Net: NetName=À3_2 Pin=U2-20
+Removed Pin From Net: NetName=À6_2 Pin=U2-21
+Removed Pin From Net: NetName=À5_2 Pin=U2-22
+Removed Pin From Net: NetName=À4_2 Pin=U2-23
+Removed Pin From Net: NetName=DOUT Pin=U2-24
+Removed Pin From Net: NetName=MOSI_H Pin=U3-1
+Removed Pin From Net: NetName=K1 Pin=U3-2
+Removed Pin From Net: NetName=K5 Pin=U3-3
+Removed Pin From Net: NetName=K7 Pin=U3-5
+Removed Pin From Net: NetName=K3 Pin=U3-6
+Removed Pin From Net: NetName=K4 Pin=U3-7
+Removed Pin From Net: NetName=K8 Pin=U3-8
+Removed Pin From Net: NetName=K6 Pin=U3-10
+Removed Pin From Net: NetName=K2 Pin=U3-11
+Removed Pin From Net: NetName=À1 Pin=U3-14
+Removed Pin From Net: NetName=À7 Pin=U3-15
+Removed Pin From Net: NetName=À2 Pin=U3-16
+Removed Pin From Net: NetName=À8 Pin=U3-17
+Removed Pin From Net: NetName=NetR1_2 Pin=U3-18
+Removed Pin From Net: NetName=À3 Pin=U3-20
+Removed Pin From Net: NetName=À6 Pin=U3-21
+Removed Pin From Net: NetName=À5 Pin=U3-22
+Removed Pin From Net: NetName=À4 Pin=U3-23
+Removed Pin From Net: NetName=SCK Pin=U4-2
+Removed Pin From Net: NetName=SCK_H Pin=U4-3
+Removed Pin From Net: NetName=MOSI Pin=U4-5
+Removed Pin From Net: NetName=MOSI_H Pin=U4-6
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Pin From Net: NetName=LOAD_H Pin=U4-8
+Removed Pin From Net: NetName=LOAD Pin=U4-9
+Removed Pin From Net: NetName=5V Pin=U4-14
+Removed Pin From Net: NetName=GND Pin=U4-15
+Removed Pin From Net: NetName=TX Pin=U5-2
+Removed Pin From Net: NetName=RX Pin=U5-3
+Removed Pin From Net: NetName=NRST Pin=U5-4
+Removed Pin From Net: NetName=GND Pin=U5-7
+Removed Pin From Net: NetName=3V3 Pin=U5-9
+Removed Pin From Net: NetName=LOAD Pin=U5-10
+Removed Pin From Net: NetName=Mic_OUT Pin=U5-14
+Removed Pin From Net: NetName=SCK Pin=U5-15
+Removed Pin From Net: NetName=MOSI Pin=U5-16
+Removed Pin From Net: NetName=SWIM Pin=U5-18
+Removed Pin From Net: NetName=K1_4 Pin=U6-2
+Removed Pin From Net: NetName=K5_4 Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-4
+Removed Pin From Net: NetName=K7_4 Pin=U6-5
+Removed Pin From Net: NetName=K3_4 Pin=U6-6
+Removed Pin From Net: NetName=K4_4 Pin=U6-7
+Removed Pin From Net: NetName=K8_4 Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U6-9
+Removed Pin From Net: NetName=K6_4 Pin=U6-10
+Removed Pin From Net: NetName=K2_4 Pin=U6-11
+Removed Pin From Net: NetName=LOAD_H Pin=U6-12
+Removed Pin From Net: NetName=SCK_H Pin=U6-13
+Removed Pin From Net: NetName=À1_4 Pin=U6-14
+Removed Pin From Net: NetName=À7_4 Pin=U6-15
+Removed Pin From Net: NetName=À2_4 Pin=U6-16
+Removed Pin From Net: NetName=À8_4 Pin=U6-17
+Removed Pin From Net: NetName=5V Pin=U6-19
+Removed Pin From Net: NetName=À3_4 Pin=U6-20
+Removed Pin From Net: NetName=À6_4 Pin=U6-21
+Removed Pin From Net: NetName=À5_4 Pin=U6-22
+Removed Pin From Net: NetName=À4_4 Pin=U6-23
+Removed Pin From Net: NetName=DOUT Pin=U7-1
+Removed Pin From Net: NetName=K1_3 Pin=U7-2
+Removed Pin From Net: NetName=K5_3 Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-4
+Removed Pin From Net: NetName=K7_3 Pin=U7-5
+Removed Pin From Net: NetName=K33_3 Pin=U7-6
+Removed Pin From Net: NetName=K4_3 Pin=U7-7
+Removed Pin From Net: NetName=K8_3 Pin=U7-8
+Removed Pin From Net: NetName=GND Pin=U7-9
+Removed Pin From Net: NetName=K6_3 Pin=U7-10
+Removed Pin From Net: NetName=K2_3 Pin=U7-11
+Removed Pin From Net: NetName=LOAD_H Pin=U7-12
+Removed Pin From Net: NetName=SCK_H Pin=U7-13
+Removed Pin From Net: NetName=À1_3 Pin=U7-14
+Removed Pin From Net: NetName=À7_3 Pin=U7-15
+Removed Pin From Net: NetName=À2_3 Pin=U7-16
+Removed Pin From Net: NetName=À8_3 Pin=U7-17
+Removed Pin From Net: NetName=5V Pin=U7-19
+Removed Pin From Net: NetName=À3_3 Pin=U7-20
+Removed Pin From Net: NetName=À6_3 Pin=U7-21
+Removed Pin From Net: NetName=À5_3 Pin=U7-22
+Removed Pin From Net: NetName=À4_3 Pin=U7-23
+Removed Pin From Net: NetName=NetC12_2 Pin=U8-1
+Removed Pin From Net: NetName=NetC15_1 Pin=U8-3
+Removed Pin From Net: NetName=Mic_OUT Pin=U8-4
+Removed Pin From Net: NetName=NetC11_2 Pin=U8-5
+Removed Member From Class: ClassName=ASA Member=C16
+Removed Member From Class: ClassName=ASA Member=F1
+Removed Member From Class: ClassName=ASA Member=R14
+Change Component Footprint: Designator=C15 Old Footprint=CAPC3216X170N New Footprint=Cap_1206
+Change Component Footprint: Designator=C3 Old Footprint=CAPC3216X178N New Footprint=Cap_1206
+Change Component Footprint: Designator=C12 Old Footprint=CAPC3216X178N New Footprint=Cap_1206
+Change Component Footprint: Designator=C5 Old Footprint=CAPC3216X180N New Footprint=Cap_1206
+Change Component Footprint: Designator=C6 Old Footprint=CAPC3216X180N New Footprint=Cap_1206
+Change Component Footprint: Designator=C7 Old Footprint=CAPC3216X180N New Footprint=Cap_1206
+Change Component Footprint: Designator=DS1 Old Footprint=DISPLAY_TA08-81GWA New Footprint=Display Dots 8x8
+Change Component Footprint: Designator=DS2 Old Footprint=DISPLAY_TA08-81GWA New Footprint=Display Dots 8x8
+Change Component Footprint: Designator=DS3 Old Footprint=DISPLAY_TA08-81GWA New Footprint=Display Dots 8x8
+Change Component Footprint: Designator=DS4 Old Footprint=DISPLAY_TA08-81GWA New Footprint=Display Dots 8x8
+Change Component Footprint: Designator=C4 Old Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_C New Footprint=Cap_1206
+Change Component Footprint: Designator=C1 Old Footprint=FP-1206-L_3_2_0_15-W_1_6-IPC_A New Footprint=Cap_1206
+Change Component Footprint: Designator=C2 Old Footprint=FP-1206-L_3_2_0_15-W_1_6-IPC_A New Footprint=Cap_1206
+Change Component Footprint: Designator=C8 Old Footprint=FP-1206-L_3_2_0_15-W_1_6-IPC_A New Footprint=Cap_1206
+Change Component Footprint: Designator=C9 Old Footprint=FP-1206-L_3_2_0_15-W_1_6-IPC_A New Footprint=Cap_1206
+Change Component Footprint: Designator=C10 Old Footprint=FP-1206-L_3_2_0_15-W_1_6-IPC_A New Footprint=Cap_1206
+Change Component Footprint: Designator=C11 Old Footprint=FP-1206-L_3_2_0_15-W_1_6-IPC_A New Footprint=Cap_1206
+Change Component Footprint: Designator=C14 Old Footprint=FP-1206-L_3_2_0_15-W_1_6-IPC_A New Footprint=Cap_1206
+Change Component Footprint: Designator=U1 Old Footprint=FP-AMS1117-IPC_C New Footprint=AMS1117-3.3
+Change Component Footprint: Designator=R1 Old Footprint=FP-CR2010-IPC_C New Footprint=Res_1206
+Change Component Footprint: Designator=R2 Old Footprint=FP-CR2010-IPC_C New Footprint=Res_1206
+Change Component Footprint: Designator=R5 Old Footprint=FP-CR2010-IPC_C New Footprint=Res_1206
+Change Component Footprint: Designator=R6 Old Footprint=FP-CR2010-IPC_C New Footprint=Res_1206
+Change Component Footprint: Designator=R7 Old Footprint=FP-CR2010-IPC_C New Footprint=Res_1206
+Change Component Footprint: Designator=R13 Old Footprint=FP-MCA1206-IPC_B New Footprint=Res_1206
+Change Component Footprint: Designator=R8 Old Footprint=FP-MCA1206-MFG New Footprint=Res_1206
+Change Component Footprint: Designator=R9 Old Footprint=FP-MCA1206-MFG New Footprint=Res_1206
+Change Component Footprint: Designator=R3 Old Footprint=FP-RK73H2H-MFG New Footprint=Res_1206
+Change Component Footprint: Designator=R4 Old Footprint=FP-RK73H2H-MFG New Footprint=Res_1206
+Change Component Footprint: Designator=R10 Old Footprint=FP-RMCF1210-IPC_A New Footprint=Res_1206
+Change Component Footprint: Designator=R12 Old Footprint=FP-RMCF1210-IPC_A New Footprint=Res_1206
+Change Component Footprint: Designator=U4 Old Footprint=FP-SOT762-1-MFG New Footprint=USB Type C
+Change Component Footprint: Designator=U6 Old Footprint=SOIC127P1032X265-24N New Footprint=DCK0005A_M
+Change Component Footprint: Designator=U7 Old Footprint=SOIC127P1032X265-24N New Footprint=DCK0005A_M
+Change Component Footprint: Designator=U2 Old Footprint=SOIC127P1032X265-24N New Footprint=MAX7219
+Change Component Footprint: Designator=U3 Old Footprint=SOIC127P1032X265-24N New Footprint=MAX7219
+Change Component Footprint: Designator=U5 Old Footprint=SOP65P640X120-20N New Footprint=DCK0005A_M
+Change Component Footprint: Designator=U8 Old Footprint=SOT65P210X110-5N New Footprint=STM8S103F3P6
+Change Component Comment : Designator=C7 Old Comment=2.2u New Comment=Cap_1206
+Change Component Comment : Designator=U4 Old Comment=3V3-5V New Comment=USB Type C
+Change Component Comment : Designator=R3 Old Comment=5.1k New Comment=Res_1206
+Change Component Comment : Designator=R4 Old Comment=5.1k New Comment=Res_1206
+Change Component Comment : Designator=C3 Old Comment=1206ZD106KAT2A New Comment=Cap_1206
+Change Component Comment : Designator=C12 Old Comment=1206ZD106KAT2A New Comment=Cap_1206
+Change Component Comment : Designator=C4 Old Comment=12066D226KAT2A New Comment=Cap_1206
+Change Component Comment : Designator=C5 Old Comment=CL31B105KCHNFNE New Comment=Cap_1206
+Change Component Comment : Designator=C6 Old Comment=CL31B105KCHNFNE New Comment=Cap_1206
+Change Component Comment : Designator=R1 Old Comment=CR2010-JW-103ELF New Comment=Res_1206
+Change Component Comment : Designator=R2 Old Comment=CR2010-JW-103ELF New Comment=Res_1206
+Change Component Comment : Designator=R5 Old Comment=CR2010-JW-103ELF New Comment=Res_1206
+Change Component Comment : Designator=R6 Old Comment=CR2010-JW-103ELF New Comment=Res_1206
+Change Component Comment : Designator=R7 Old Comment=CR2010-JW-103ELF New Comment=Res_1206
+Change Component Comment : Designator=C1 Old Comment=HMK316B7104ML-T New Comment=Cap_1206
+Change Component Comment : Designator=C2 Old Comment=HMK316B7104ML-T New Comment=Cap_1206
+Change Component Comment : Designator=C8 Old Comment=HMK316B7104ML-T New Comment=Cap_1206
+Change Component Comment : Designator=C9 Old Comment=HMK316B7104ML-T New Comment=Cap_1206
+Change Component Comment : Designator=C10 Old Comment=HMK316B7104ML-T New Comment=Cap_1206
+Change Component Comment : Designator=C11 Old Comment=HMK316B7104ML-T New Comment=Cap_1206
+Change Component Comment : Designator=C14 Old Comment=HMK316B7104ML-T New Comment=Cap_1206
+Change Component Comment : Designator=U8 Old Comment=MAX4466EXK New Comment=STM8S103F3P6
+Change Component Comment : Designator=U6 Old Comment=MAX7219CWGT New Comment=CAHCT1G125QDCKRG4Q
+Change Component Comment : Designator=U7 Old Comment=MAX7219CWGT New Comment=CAHCT1G125QDCKRG4Q
+Change Component Comment : Designator=U2 Old Comment=MAX7219CWGT New Comment=MAX7219
+Change Component Comment : Designator=U3 Old Comment=MAX7219CWGT New Comment=MAX7219
+Change Component Comment : Designator=R13 Old Comment=MCA1206MD1002DP500 New Comment=Res_1206
+Change Component Comment : Designator=R8 Old Comment=MCA1206MD2001BP100 New Comment=Res_1206
+Change Component Comment : Designator=R9 Old Comment=MCA1206MD2001BP100 New Comment=Res_1206
+Change Component Comment : Designator=R10 Old Comment=RMCF1210JT1M00 New Comment=Res_1206
+Change Component Comment : Designator=R12 Old Comment=RMCF1210JT1M00 New Comment=Res_1206
+Change Component Comment : Designator=U5 Old Comment=STM8S103F3P6 New Comment=CAHCT1G125QDCKRG4Q
+Change Component Comment : Designator=DS1 Old Comment=TA08-81GWA New Comment=Display Dots 8x8
+Change Component Comment : Designator=DS2 Old Comment=TA08-81GWA New Comment=Display Dots 8x8
+Change Component Comment : Designator=DS3 Old Comment=TA08-81GWA New Comment=Display Dots 8x8
+Change Component Comment : Designator=DS4 Old Comment=TA08-81GWA New Comment=Display Dots 8x8
+Change Component Comment : Designator=C15 Old Comment=VJ1206A101KXBAR New Comment=Cap_1206
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=201F2EB8-8637-4010-A562-1178093281F5 New ItemGUID= Old RevisionGUID=0E963A17-3B79-49FD-A060-470AE2BFEE04 New RevisionGUID=
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=201F2EB8-8637-4010-A562-1178093281F5 New ItemGUID= Old RevisionGUID=0E963A17-3B79-49FD-A060-470AE2BFEE04 New RevisionGUID=
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6D1B5AC3-A903-40CA-89B7-C1E556DD59DC New ItemGUID= Old RevisionGUID=C8F21380-15EB-4AA5-B762-B88D8B9E3973 New RevisionGUID=
+Change Managed Component Library Link : Designator=C8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=201F2EB8-8637-4010-A562-1178093281F5 New ItemGUID= Old RevisionGUID=0E963A17-3B79-49FD-A060-470AE2BFEE04 New RevisionGUID=
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=201F2EB8-8637-4010-A562-1178093281F5 New ItemGUID= Old RevisionGUID=0E963A17-3B79-49FD-A060-470AE2BFEE04 New RevisionGUID=
+Change Managed Component Library Link : Designator=C10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=201F2EB8-8637-4010-A562-1178093281F5 New ItemGUID= Old RevisionGUID=0E963A17-3B79-49FD-A060-470AE2BFEE04 New RevisionGUID=
+Change Managed Component Library Link : Designator=C11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=201F2EB8-8637-4010-A562-1178093281F5 New ItemGUID= Old RevisionGUID=0E963A17-3B79-49FD-A060-470AE2BFEE04 New RevisionGUID=
+Change Managed Component Library Link : Designator=C14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=201F2EB8-8637-4010-A562-1178093281F5 New ItemGUID= Old RevisionGUID=0E963A17-3B79-49FD-A060-470AE2BFEE04 New RevisionGUID=
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C1FA8FA4-EBBB-47CF-8E95-7F64A606A54A New ItemGUID= Old RevisionGUID=8ED2B73E-0592-4C0F-A01B-54ADC7FB1AE3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C1FA8FA4-EBBB-47CF-8E95-7F64A606A54A New ItemGUID= Old RevisionGUID=8ED2B73E-0592-4C0F-A01B-54ADC7FB1AE3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6F2A1253-F3F1-4CD5-9054-0952E0079635 New ItemGUID= Old RevisionGUID=224F5EE1-35FE-4304-B1FD-55344F0165FC New RevisionGUID=
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6F2A1253-F3F1-4CD5-9054-0952E0079635 New ItemGUID= Old RevisionGUID=224F5EE1-35FE-4304-B1FD-55344F0165FC New RevisionGUID=
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C1FA8FA4-EBBB-47CF-8E95-7F64A606A54A New ItemGUID= Old RevisionGUID=8ED2B73E-0592-4C0F-A01B-54ADC7FB1AE3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C1FA8FA4-EBBB-47CF-8E95-7F64A606A54A New ItemGUID= Old RevisionGUID=8ED2B73E-0592-4C0F-A01B-54ADC7FB1AE3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C1FA8FA4-EBBB-47CF-8E95-7F64A606A54A New ItemGUID= Old RevisionGUID=8ED2B73E-0592-4C0F-A01B-54ADC7FB1AE3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=F97C04B6-4B48-4579-B2D3-9D6F78C0D968 New ItemGUID= Old RevisionGUID=2BC8DE8A-71A6-46F4-A08A-14E966667E3F New RevisionGUID=
+Change Managed Component Library Link : Designator=R9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=F97C04B6-4B48-4579-B2D3-9D6F78C0D968 New ItemGUID= Old RevisionGUID=2BC8DE8A-71A6-46F4-A08A-14E966667E3F New RevisionGUID=
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=7A4BDF33-4B26-423E-BE91-53C32E3A97BF New ItemGUID= Old RevisionGUID=CFA3691E-D441-4730-9A55-6D1E4E578087 New RevisionGUID=
+Change Managed Component Library Link : Designator=R12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=7A4BDF33-4B26-423E-BE91-53C32E3A97BF New ItemGUID= Old RevisionGUID=CFA3691E-D441-4730-9A55-6D1E4E578087 New RevisionGUID=
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=64BDD5B6-F7C8-4772-8274-C30F8ACCE25F New ItemGUID= Old RevisionGUID=3A0F7484-5D69-4347-BD9C-8D0654111A24 New RevisionGUID=
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=A235AA21-9D40-41CE-AFD5-ED190622537A New ItemGUID= Old RevisionGUID=3D147F22-7269-42D2-A886-FBED816C16F3 New RevisionGUID=
+Change Managed Component Library Link : Designator=U4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3C2FEDA5-8858-4929-A270-DA1AF6FADB6D New ItemGUID= Old RevisionGUID=B40D522D-67D7-4F44-841E-222EC6E1FD11 New RevisionGUID=
+Change component parameters: Designator = "R3" ("R3"); Footprint = "FP-RK73H2H-MFG"; UniqueID = "\NWBYMUQQ" ("\NWBYMUQQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "FP-RK73H2H-MFG"; UniqueID = "\TYBXEIKG" ("\TYBXEIKG")
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC3216X178N"; UniqueID = "\BJONJXBN" ("\BJONJXBN")
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC3216X180N"; UniqueID = "\EDWSNVKE" ("\EDWSNVKE")
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC3216X180N"; UniqueID = "\TCNTTJSN" ("\TCNTTJSN")
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPC3216X178N"; UniqueID = "\MCCSRNOH" ("\MCCSRNOH")
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC3216X180N"; UniqueID = "\RLEUMJFV" ("\RLEUMJFV")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC3216X170N"; UniqueID = "\MGEVGVRV" ("\MGEVGVRV")
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOIC127P1032X265-24N"; UniqueID = "\VMRBNRTC" ("\VMRBNRTC")
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOIC127P1032X265-24N"; UniqueID = "\UHBYEYZY" ("\UHBYEYZY")
+Change component parameters: Designator = "U8" ("U8"); Footprint = "SOT65P210X110-5N"; UniqueID = "\PXIJDLGM" ("\PXIJDLGM")
+Change component parameters: Designator = "DS1" ("DS1"); Footprint = "DISPLAY_TA08-81GWA"; UniqueID = "\FEAIASIY" ("\FEAIASIY")
+Change component parameters: Designator = "DS2" ("DS2"); Footprint = "DISPLAY_TA08-81GWA"; UniqueID = "\WKZLZFGZ" ("\WKZLZFGZ")
+Change component parameters: Designator = "DS3" ("DS3"); Footprint = "DISPLAY_TA08-81GWA"; UniqueID = "\MWZYMFCI" ("\MWZYMFCI")
+Change component parameters: Designator = "DS4" ("DS4"); Footprint = "DISPLAY_TA08-81GWA"; UniqueID = "\EBDTSQGC" ("\EBDTSQGC")
+Change component parameters: Designator = "R1" ("R1"); Footprint = "FP-CR2010-IPC_C"; UniqueID = "\CMOHIHBT" ("\CMOHIHBT")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "FP-CR2010-IPC_C"; UniqueID = "\BTLRAOGQ" ("\BTLRAOGQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "FP-CR2010-IPC_C"; UniqueID = "\DVMCRSXC" ("\DVMCRSXC")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "FP-CR2010-IPC_C"; UniqueID = "\AICRCVFV" ("\AICRCVFV")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "FP-CR2010-IPC_C"; UniqueID = "\QXETDLAD" ("\QXETDLAD")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "FP-MCA1206-MFG"; UniqueID = "\BHYXDEQU" ("\BHYXDEQU")
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "FP-MCA1206-MFG"; UniqueID = "\JQTRLUIY" ("\JQTRLUIY")
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "FP-RMCF1210-IPC_A"; UniqueID = "\TGHHNDHN" ("\TGHHNDHN")
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "FP-RMCF1210-IPC_A"; UniqueID = "\SJOUVDZN" ("\SJOUVDZN")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "FP-MCA1206-IPC_B"; UniqueID = "\YHSGNSWK" ("\YHSGNSWK")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SOP65P640X120-20N"; UniqueID = "\ECPTIEYR" ("\ECPTIEYR")
+Change component parameters (AddParameter): Name = "3-State Output"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SCLS504B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Generic Part Number"; Value = "SN74AHCT1G125-Q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "8/-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Family"; Value = "Non-Inverting Buffer/Driver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology Family"; Value = "AHCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SOIC127P1032X265-24N"; UniqueID = "\OXGQEBDD" ("\OXGQEBDD")
+Change component parameters (AddParameter): Name = "3-State Output"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SCLS504B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Generic Part Number"; Value = "SN74AHCT1G125-Q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "8/-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Family"; Value = "Non-Inverting Buffer/Driver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology Family"; Value = "AHCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7" ("U7"); Footprint = "SOIC127P1032X265-24N"; UniqueID = "\YGGBSUXB" ("\YGGBSUXB")
+Change component parameters (AddParameter): Name = "3-State Output"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SCLS504B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Generic Part Number"; Value = "SN74AHCT1G125-Q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "8/-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Family"; Value = "Non-Inverting Buffer/Driver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology Family"; Value = "AHCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "FP-AMS1117-IPC_C"; UniqueID = "\SSIOAMEO" ("\SSIOAMEO")
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-1206-L_3_2_0_15-W_1_6-IPC_A"; UniqueID = "\BUNUGKNJ" ("\BUNUGKNJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "FP-1206-L_3_2_0_15-W_1_6-IPC_A"; UniqueID = "\JTRJLKXM" ("\JTRJLKXM")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "FP-1206-L_3_2_0_15-W_1_6-IPC_A"; UniqueID = "\DQMTPHPU" ("\DQMTPHPU")
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "FP-1206-L_3_2_0_15-W_1_6-IPC_A"; UniqueID = "\YDTQAGTE" ("\YDTQAGTE")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "FP-1206-L_3_2_0_15-W_1_6-IPC_A"; UniqueID = "\IQYAMTSB" ("\IQYAMTSB")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "FP-1206-L_3_2_0_15-W_1_6-IPC_A"; UniqueID = "\FYSIJRWY" ("\FYSIJRWY")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "FP-1206-L_3_2_0_15-W_1_6-IPC_A"; UniqueID = "\GLSQQWXF" ("\GLSQQWXF")
+Change component parameters (AddParameter): Name = "Value"; Value = "100p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "FP-1206-L_3_2_0_2-W_1_6_0-IPC_C"; UniqueID = "\VQADBMLU" ("\VQADBMLU")
+Change component parameters (AddParameter): Name = "Value"; Value = "22u"; VariantName = "[No Variations]"
+Added Component: Designator=C13(Cap_1206)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=R11(Res_1206)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=U9(MAX7219)
+Added Component: Designator=U10(MAX7219)
+Added Component: Designator=U11(MAX4466)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NRST Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=Mic_OUT Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=NetC12_2 Pin=LS1-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NRST Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=5V Pin=R6-1
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=5V Pin=R8-1
+Added Pin To Net: NetName=NetC12_2 Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R10-1
+Added Pin To Net: NetName=NetC12_1 Pin=R10-2
+Added Pin To Net: NetName=NetC12_1 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=NetC15_1 Pin=R12-2
+Added Pin To Net: NetName=Mic_OUT Pin=R13-2
+Added Pin To Net: NetName=MOSI_H Pin=U2-1
+Added Pin To Net: NetName=K1 Pin=U2-2
+Added Pin To Net: NetName=K5 Pin=U2-3
+Added Pin To Net: NetName=K7 Pin=U2-5
+Added Pin To Net: NetName=K3 Pin=U2-6
+Added Pin To Net: NetName=K4 Pin=U2-7
+Added Pin To Net: NetName=K8 Pin=U2-8
+Added Pin To Net: NetName=K6 Pin=U2-10
+Added Pin To Net: NetName=K2 Pin=U2-11
+Added Pin To Net: NetName=À1 Pin=U2-14
+Added Pin To Net: NetName=À7 Pin=U2-15
+Added Pin To Net: NetName=À2 Pin=U2-16
+Added Pin To Net: NetName=À8 Pin=U2-17
+Added Pin To Net: NetName=NetR1_2 Pin=U2-18
+Added Pin To Net: NetName=À3 Pin=U2-20
+Added Pin To Net: NetName=À6 Pin=U2-21
+Added Pin To Net: NetName=À5 Pin=U2-22
+Added Pin To Net: NetName=À4 Pin=U2-23
+Added Pin To Net: NetName=K1_2 Pin=U3-2
+Added Pin To Net: NetName=K5_2 Pin=U3-3
+Added Pin To Net: NetName=K7_2 Pin=U3-5
+Added Pin To Net: NetName=K3_2 Pin=U3-6
+Added Pin To Net: NetName=K4_2 Pin=U3-7
+Added Pin To Net: NetName=K8_2 Pin=U3-8
+Added Pin To Net: NetName=K6_2 Pin=U3-10
+Added Pin To Net: NetName=K2_2 Pin=U3-11
+Added Pin To Net: NetName=À1_2 Pin=U3-14
+Added Pin To Net: NetName=À7_2 Pin=U3-15
+Added Pin To Net: NetName=À2_2 Pin=U3-16
+Added Pin To Net: NetName=À8_2 Pin=U3-17
+Added Pin To Net: NetName=NetR2_2 Pin=U3-18
+Added Pin To Net: NetName=À3_2 Pin=U3-20
+Added Pin To Net: NetName=À6_2 Pin=U3-21
+Added Pin To Net: NetName=À5_2 Pin=U3-22
+Added Pin To Net: NetName=À4_2 Pin=U3-23
+Added Pin To Net: NetName=DOUT Pin=U3-24
+Added Pin To Net: NetName=GND Pin=U4-A1_B12
+Added Pin To Net: NetName=5V Pin=U4-A4_B9
+Added Pin To Net: NetName=GND Pin=U4-B1_A12
+Added Pin To Net: NetName=5V Pin=U4-B4_A9
+Added Pin To Net: NetName=GND Pin=U4-SH1
+Added Pin To Net: NetName=GND Pin=U4-SH2
+Added Pin To Net: NetName=GND Pin=U4-SH3
+Added Pin To Net: NetName=GND Pin=U4-SH4
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=SCK Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=SCK_H Pin=U5-4
+Added Pin To Net: NetName=5V Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=MOSI Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=MOSI_H Pin=U6-4
+Added Pin To Net: NetName=5V Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=LOAD Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=LOAD_H Pin=U7-4
+Added Pin To Net: NetName=5V Pin=U7-5
+Added Pin To Net: NetName=TX Pin=U8-2
+Added Pin To Net: NetName=RX Pin=U8-3
+Added Pin To Net: NetName=NRST Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=3V3 Pin=U8-9
+Added Pin To Net: NetName=LOAD Pin=U8-10
+Added Pin To Net: NetName=Mic_OUT Pin=U8-14
+Added Pin To Net: NetName=SCK Pin=U8-15
+Added Pin To Net: NetName=MOSI Pin=U8-16
+Added Pin To Net: NetName=SWIM Pin=U8-18
+Added Pin To Net: NetName=DOUT Pin=U9-1
+Added Pin To Net: NetName=K1_3 Pin=U9-2
+Added Pin To Net: NetName=K5_3 Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=K7_3 Pin=U9-5
+Added Pin To Net: NetName=K33_3 Pin=U9-6
+Added Pin To Net: NetName=K4_3 Pin=U9-7
+Added Pin To Net: NetName=K8_3 Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U9-9
+Added Pin To Net: NetName=K6_3 Pin=U9-10
+Added Pin To Net: NetName=K2_3 Pin=U9-11
+Added Pin To Net: NetName=LOAD_H Pin=U9-12
+Added Pin To Net: NetName=SCK_H Pin=U9-13
+Added Pin To Net: NetName=À1_3 Pin=U9-14
+Added Pin To Net: NetName=À7_3 Pin=U9-15
+Added Pin To Net: NetName=À2_3 Pin=U9-16
+Added Pin To Net: NetName=À8_3 Pin=U9-17
+Added Pin To Net: NetName=5V Pin=U9-19
+Added Pin To Net: NetName=À3_3 Pin=U9-20
+Added Pin To Net: NetName=À6_3 Pin=U9-21
+Added Pin To Net: NetName=À5_3 Pin=U9-22
+Added Pin To Net: NetName=À4_3 Pin=U9-23
+Added Pin To Net: NetName=K1_4 Pin=U10-2
+Added Pin To Net: NetName=K5_4 Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=K7_4 Pin=U10-5
+Added Pin To Net: NetName=K3_4 Pin=U10-6
+Added Pin To Net: NetName=K4_4 Pin=U10-7
+Added Pin To Net: NetName=K8_4 Pin=U10-8
+Added Pin To Net: NetName=GND Pin=U10-9
+Added Pin To Net: NetName=K6_4 Pin=U10-10
+Added Pin To Net: NetName=K2_4 Pin=U10-11
+Added Pin To Net: NetName=LOAD_H Pin=U10-12
+Added Pin To Net: NetName=SCK_H Pin=U10-13
+Added Pin To Net: NetName=À1_4 Pin=U10-14
+Added Pin To Net: NetName=À7_4 Pin=U10-15
+Added Pin To Net: NetName=À2_4 Pin=U10-16
+Added Pin To Net: NetName=À8_4 Pin=U10-17
+Added Pin To Net: NetName=5V Pin=U10-19
+Added Pin To Net: NetName=À3_4 Pin=U10-20
+Added Pin To Net: NetName=À6_4 Pin=U10-21
+Added Pin To Net: NetName=À5_4 Pin=U10-22
+Added Pin To Net: NetName=À4_4 Pin=U10-23
+Added Pin To Net: NetName=NetC12_1 Pin=U11-1
+Added Pin To Net: NetName=Mic_OUT Pin=U11-4
+Added Pin To Net: NetName=NetC11_2 Pin=U11-5
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U8-8
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R8-2
+Added Pin To Net: NetName=NetC10_2 Pin=R9-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U11-2
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=R12-1
+Added Pin To Net: NetName=NetC14_2 Pin=R13-1
+Added Pin To Net: NetName=NetC14_2 Pin=U11-3
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U4-A5
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U4-B5
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U9-18
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U10-18
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetU2_24 Pin=U2-24
+Added Pin To Net: NetName=NetU2_24 Pin=U3-1
+Added Net: Name=NetU2_24
+Added Pin To Net: NetName=NetU9_24 Pin=U9-24
+Added Pin To Net: NetName=NetU9_24 Pin=U10-1
+Added Net: Name=NetU9_24
+Added Member To Class: ClassName=ASA Member=Component C13 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component R11 Res_1206
+Added Member To Class: ClassName=ASA Member=Component U9 MAX7219
+Added Member To Class: ClassName=ASA Member=Component U10 MAX7219
+Added Member To Class: ClassName=ASA Member=Component U11 MAX4466

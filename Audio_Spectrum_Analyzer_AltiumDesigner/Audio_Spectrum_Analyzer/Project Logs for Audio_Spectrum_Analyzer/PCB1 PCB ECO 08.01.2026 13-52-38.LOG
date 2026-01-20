@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=+3V3 Pin=U1-2
+Removed Pin From Net: NetName=5V Pin=U1-3
+Change Component Footprint: Designator=U5 Old Footprint=DCK0005A_M New Footprint=DCK0005A_M
+Change Component Footprint: Designator=U6 Old Footprint=DCK0005A_M New Footprint=DCK0005A_M
+Change Component Footprint: Designator=U7 Old Footprint=DCK0005A_M New Footprint=DCK0005A_M
+Added Component: Designator=U1(AMS1117-3.3)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=+3V3 Pin=U1-4
+Added Member To Class: ClassName=ASA Member=Component U5 CAHCT1G125QDCKRG4Q
+Added Member To Class: ClassName=ASA Member=Component U6 CAHCT1G125QDCKRG4Q
+Added Member To Class: ClassName=ASA Member=Component U7 CAHCT1G125QDCKRG4Q
