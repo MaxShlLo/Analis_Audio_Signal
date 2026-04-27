@@ -1,0 +1,187 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run",
+      "dependsOn": [
+        "Compile All",
+        "Generate LKF (Run)",
+        "Link STM8 with COSMIC",
+        "Convert SM8 to HEX",
+        "Flash STM8 via stm8flash"
+      ],
+      "group": {
+        "kind": "build"
+      }
+    },
+    {
+      "label": "Debug",
+      "dependsOn": [
+        "Compile all (debug)",
+        "Generate LKF (Debug)",
+        "Link STM8 with COSMIC (debug)",
+        "Convert OUT to ELF"
+      ],
+      "group": {
+        "kind": "build"
+      }
+    },
+    {
+      "label": "Compile All",
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "for %f in (src\\*.c) do \"C:\\Program Files (x86)\\COSMIC\\FSE_Compilers\\CXSTM8\\cxstm8.exe\" -i include src\\%~nxf"
+      ],
+      "problemMatcher": [],
+        "options": {
+        "shell": {
+        "executable": "cmd.exe",
+        "args": ["/c"]
+      }
+    },
+      "group": "build"
+    },
+    {
+      "label": "Compile all (debug)",
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "for %f in (src\\*.c) do \"C:\\Program Files (x86)\\COSMIC\\FSE_Compilers\\CXSTM8\\cxstm8.exe\" +debug -i include src\\%~nxf"
+      ],
+      "problemMatcher": [],
+      "options": {
+      "shell": {
+      "executable": "cmd.exe",
+      "args": ["/c"]
+        }
+      }
+    },
+    {
+      "label": "Generate LKF (Run)",
+      "type": "shell",
+      "command": "python",
+      "args": ["scripts\\generate_lkf.py", "run"],
+      "problemMatcher": [],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      }
+    },
+    {
+      "label": "Generate LKF (Debug)",
+      "type": "shell",
+      "command": "python",
+      "args": ["scripts\\generate_lkf.py", "debug"],
+      "problemMatcher": [],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      }
+    },
+
+    {
+      "label": "Link STM8 with COSMIC",
+      "type": "shell",
+      "command": "\"C:/Program Files (x86)/COSMIC/FSE_Compilers/CXSTM8/clnk.exe\"",
+      "args": [
+        "-o", "Debug\\practice1.sm8",
+        "src\\practice1.lkf"
+      ],
+      "dependsOn": [
+        "Generate LKF (Run)"
+      ],
+      "group": "build",
+      "problemMatcher": [],
+      "options": {
+        "shell": {
+          "executable": "cmd.exe",
+          "args": ["/c"]
+        }
+      }
+    },
+    {
+      "label": "Convert SM8 to HEX",
+      "dependsOn": ["Link STM8 with COSMIC"],
+      "type": "shell",
+      "command": "\"C:/Program Files (x86)/COSMIC/FSE_Compilers/CXSTM8/chex.exe\"",
+      "args": [
+        "-fi",
+        "-o",
+        "Debug\\practice1.hex",
+        "Debug\\practice1.sm8"
+      ],
+      "group": "build",
+      "problemMatcher": [],
+      "options": {
+        "shell": {
+          "executable": "cmd.exe",
+          "args": ["/c"]
+        },
+        "cwd": "${workspaceFolder}"
+      }
+    },
+    {
+      "label": "Flash STM8 via stm8flash",
+      "dependsOn": ["Convert SM8 to HEX"],
+      "type": "shell",
+      "command": "C:\\Users\\Asus\\Desktop\\Analizator_Audio_Signal\\vs_code\\stm8flash.exe",
+      "args": [
+        "-c", "stlinkv2",
+        "-p", "stm8s103f3",
+        "-w", "Debug\\practice1.hex"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "problemMatcher": [],
+      "options": {
+        "shell": {
+          "executable": "cmd.exe",
+          "args": ["/c"]
+        },
+        "cwd": "${workspaceFolder}"
+      }
+    },
+
+    {
+      "label": "Link STM8 with COSMIC (debug)",
+      "type": "shell",
+      "command": "\"C:/Program Files (x86)/COSMIC/FSE_Compilers/CXSTM8/clnk.exe\"",
+      "args": [
+        "-o", "Debug\\practice1.out",
+        "-m", "Debug\\practice1.map",
+        "src\\practice1.lkf"
+      ],
+      "dependsOn": [
+        "Generate LKF (Debug)"
+      ],
+      "problemMatcher": [],
+      "options": {
+        "shell": {
+          "executable": "cmd.exe",
+          "args": ["/c"]
+        }
+      }
+    },
+    {
+      "label": "Convert OUT to ELF",
+      "type": "shell",
+      "command": "\"C:/Program Files (x86)/COSMIC/FSE_Compilers/CXSTM8/cvdwarf.exe\"",
+      "args": [
+        "-o", "Debug\\practice1.elf",
+        "Debug\\practice1.out"
+      ],
+      "group": "build",
+      "dependsOn": "Link STM8 with COSMIC (debug)",
+      "problemMatcher": [],
+      "options": {
+        "shell": {
+          "executable": "cmd.exe",
+          "args": ["/c"]
+        }
+      }
+    }
+  ]
+}

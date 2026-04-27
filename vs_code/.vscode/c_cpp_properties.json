@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "COSMIC STM8",
+            "intelliSenseMode": "gcc-x86",
+            "cStandard": "c89",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "C:/Program Files (x86)/COSMIC/FSE_Compilers/CXSTM8/Lib",
+                "C:/Program Files (x86)/COSMIC/stsw-stm8069/STM8S_StdPeriph_Lib/Libraries/STM8S_StdPeriph_Driver/inc"
+                //"C:/Program Files (x86)/COSMIC/stsw-stm8069/STM8S_StdPeriph_Lib/Libraries/STM8S_StdPeriph_Driver/src"
+            ],
+            "defines": [    
+                "__CSMC__",
+                "STM8S103",
+                "__STDC__",
+                "__VSCODE_INTELLISENSE__"
+            ],
+            "forcedInclude": [
+                "${workspaceFolder}/include/stm8_comp_compat.h"
+            ],
+            "compilerPath": "C:/Program Files (x86)/COSMIC/FSE_Compilers/CXSTM8/cxstm8.exe",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/include",
+                    "C:/Program Files (x86)/COSMIC/FSE_Compilers/CXSTM8"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
