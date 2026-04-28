@@ -1,0 +1,155 @@
+Removed Pin From Net: NetName=K5 Pin=DS1-1
+Removed Pin From Net: NetName=K7 Pin=DS1-2
+Removed Pin From Net: NetName=À2 Pin=DS1-3
+Removed Pin From Net: NetName=À3 Pin=DS1-4
+Removed Pin From Net: NetName=K8 Pin=DS1-5
+Removed Pin From Net: NetName=À5 Pin=DS1-6
+Removed Pin From Net: NetName=K6 Pin=DS1-7
+Removed Pin From Net: NetName=K3 Pin=DS1-8
+Removed Pin From Net: NetName=K1 Pin=DS1-9
+Removed Pin From Net: NetName=À4 Pin=DS1-10
+Removed Pin From Net: NetName=À6 Pin=DS1-11
+Removed Pin From Net: NetName=K4 Pin=DS1-12
+Removed Pin From Net: NetName=À1 Pin=DS1-13
+Removed Pin From Net: NetName=K2 Pin=DS1-14
+Removed Pin From Net: NetName=À7 Pin=DS1-15
+Removed Pin From Net: NetName=À8 Pin=DS1-16
+Removed Pin From Net: NetName=K5_2 Pin=DS2-1
+Removed Pin From Net: NetName=K7_2 Pin=DS2-2
+Removed Pin From Net: NetName=À2_2 Pin=DS2-3
+Removed Pin From Net: NetName=À3_2 Pin=DS2-4
+Removed Pin From Net: NetName=K8_2 Pin=DS2-5
+Removed Pin From Net: NetName=À5_2 Pin=DS2-6
+Removed Pin From Net: NetName=K6_2 Pin=DS2-7
+Removed Pin From Net: NetName=K3_2 Pin=DS2-8
+Removed Pin From Net: NetName=K1_2 Pin=DS2-9
+Removed Pin From Net: NetName=À4_2 Pin=DS2-10
+Removed Pin From Net: NetName=À6_2 Pin=DS2-11
+Removed Pin From Net: NetName=K4_2 Pin=DS2-12
+Removed Pin From Net: NetName=À1_2 Pin=DS2-13
+Removed Pin From Net: NetName=K2_2 Pin=DS2-14
+Removed Pin From Net: NetName=À7_2 Pin=DS2-15
+Removed Pin From Net: NetName=À8_2 Pin=DS2-16
+Removed Pin From Net: NetName=K5_3 Pin=DS3-1
+Removed Pin From Net: NetName=K7_3 Pin=DS3-2
+Removed Pin From Net: NetName=À2_3 Pin=DS3-3
+Removed Pin From Net: NetName=À3_3 Pin=DS3-4
+Removed Pin From Net: NetName=K8_3 Pin=DS3-5
+Removed Pin From Net: NetName=À5_3 Pin=DS3-6
+Removed Pin From Net: NetName=K6_3 Pin=DS3-7
+Removed Pin From Net: NetName=K33_3 Pin=DS3-8
+Removed Pin From Net: NetName=K1_3 Pin=DS3-9
+Removed Pin From Net: NetName=À4_3 Pin=DS3-10
+Removed Pin From Net: NetName=À6_3 Pin=DS3-11
+Removed Pin From Net: NetName=K4_3 Pin=DS3-12
+Removed Pin From Net: NetName=À1_3 Pin=DS3-13
+Removed Pin From Net: NetName=K2_3 Pin=DS3-14
+Removed Pin From Net: NetName=À7_3 Pin=DS3-15
+Removed Pin From Net: NetName=À8_3 Pin=DS3-16
+Removed Pin From Net: NetName=K5_4 Pin=DS4-1
+Removed Pin From Net: NetName=K7_4 Pin=DS4-2
+Removed Pin From Net: NetName=À2_4 Pin=DS4-3
+Removed Pin From Net: NetName=À3_4 Pin=DS4-4
+Removed Pin From Net: NetName=K8_4 Pin=DS4-5
+Removed Pin From Net: NetName=À5_4 Pin=DS4-6
+Removed Pin From Net: NetName=K6_4 Pin=DS4-7
+Removed Pin From Net: NetName=K3_4 Pin=DS4-8
+Removed Pin From Net: NetName=K1_4 Pin=DS4-9
+Removed Pin From Net: NetName=À4_4 Pin=DS4-10
+Removed Pin From Net: NetName=À6_4 Pin=DS4-11
+Removed Pin From Net: NetName=K4_4 Pin=DS4-12
+Removed Pin From Net: NetName=À1_4 Pin=DS4-13
+Removed Pin From Net: NetName=K2_4 Pin=DS4-14
+Removed Pin From Net: NetName=À7_4 Pin=DS4-15
+Removed Pin From Net: NetName=À8_4 Pin=DS4-16
+Added Component: Designator=C16(Cap_1206)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C17(Cap_1206)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C18(Cap_1206)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=DS1(LED_MATRIX_8x8_1088AS)
+Added Component: Designator=DS2(LED_MATRIX_8x8_1088AS)
+Added Component: Designator=DS3(LED_MATRIX_8x8_1088AS)
+Added Component: Designator=DS4(LED_MATRIX_8x8_1088AS)
+Added Pin To Net: NetName=5V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=5V Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=5V Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=K5 Pin=DS1-1
+Added Pin To Net: NetName=K7 Pin=DS1-2
+Added Pin To Net: NetName=À2 Pin=DS1-3
+Added Pin To Net: NetName=À3 Pin=DS1-4
+Added Pin To Net: NetName=K8 Pin=DS1-5
+Added Pin To Net: NetName=À5 Pin=DS1-6
+Added Pin To Net: NetName=K6 Pin=DS1-7
+Added Pin To Net: NetName=K3 Pin=DS1-8
+Added Pin To Net: NetName=K1 Pin=DS1-9
+Added Pin To Net: NetName=À4 Pin=DS1-10
+Added Pin To Net: NetName=À6 Pin=DS1-11
+Added Pin To Net: NetName=K4 Pin=DS1-12
+Added Pin To Net: NetName=À1 Pin=DS1-13
+Added Pin To Net: NetName=K2 Pin=DS1-14
+Added Pin To Net: NetName=À7 Pin=DS1-15
+Added Pin To Net: NetName=À8 Pin=DS1-16
+Added Pin To Net: NetName=K5_2 Pin=DS2-1
+Added Pin To Net: NetName=K7_2 Pin=DS2-2
+Added Pin To Net: NetName=À2_2 Pin=DS2-3
+Added Pin To Net: NetName=À3_2 Pin=DS2-4
+Added Pin To Net: NetName=K8_2 Pin=DS2-5
+Added Pin To Net: NetName=À5_2 Pin=DS2-6
+Added Pin To Net: NetName=K6_2 Pin=DS2-7
+Added Pin To Net: NetName=K3_2 Pin=DS2-8
+Added Pin To Net: NetName=K1_2 Pin=DS2-9
+Added Pin To Net: NetName=À4_2 Pin=DS2-10
+Added Pin To Net: NetName=À6_2 Pin=DS2-11
+Added Pin To Net: NetName=K4_2 Pin=DS2-12
+Added Pin To Net: NetName=À1_2 Pin=DS2-13
+Added Pin To Net: NetName=K2_2 Pin=DS2-14
+Added Pin To Net: NetName=À7_2 Pin=DS2-15
+Added Pin To Net: NetName=À8_2 Pin=DS2-16
+Added Pin To Net: NetName=K5_3 Pin=DS3-1
+Added Pin To Net: NetName=K7_3 Pin=DS3-2
+Added Pin To Net: NetName=À2_3 Pin=DS3-3
+Added Pin To Net: NetName=À3_3 Pin=DS3-4
+Added Pin To Net: NetName=K8_3 Pin=DS3-5
+Added Pin To Net: NetName=À5_3 Pin=DS3-6
+Added Pin To Net: NetName=K6_3 Pin=DS3-7
+Added Pin To Net: NetName=K33_3 Pin=DS3-8
+Added Pin To Net: NetName=K1_3 Pin=DS3-9
+Added Pin To Net: NetName=À4_3 Pin=DS3-10
+Added Pin To Net: NetName=À6_3 Pin=DS3-11
+Added Pin To Net: NetName=K4_3 Pin=DS3-12
+Added Pin To Net: NetName=À1_3 Pin=DS3-13
+Added Pin To Net: NetName=K2_3 Pin=DS3-14
+Added Pin To Net: NetName=À7_3 Pin=DS3-15
+Added Pin To Net: NetName=À8_3 Pin=DS3-16
+Added Pin To Net: NetName=K5_4 Pin=DS4-1
+Added Pin To Net: NetName=K7_4 Pin=DS4-2
+Added Pin To Net: NetName=À2_4 Pin=DS4-3
+Added Pin To Net: NetName=À3_4 Pin=DS4-4
+Added Pin To Net: NetName=K8_4 Pin=DS4-5
+Added Pin To Net: NetName=À5_4 Pin=DS4-6
+Added Pin To Net: NetName=K6_4 Pin=DS4-7
+Added Pin To Net: NetName=K3_4 Pin=DS4-8
+Added Pin To Net: NetName=K1_4 Pin=DS4-9
+Added Pin To Net: NetName=À4_4 Pin=DS4-10
+Added Pin To Net: NetName=À6_4 Pin=DS4-11
+Added Pin To Net: NetName=K4_4 Pin=DS4-12
+Added Pin To Net: NetName=À1_4 Pin=DS4-13
+Added Pin To Net: NetName=K2_4 Pin=DS4-14
+Added Pin To Net: NetName=À7_4 Pin=DS4-15
+Added Pin To Net: NetName=À8_4 Pin=DS4-16
+Added Member To Class: ClassName=ASA Member=Component C16 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C17 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C18 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component LS1 Micro
+Added Member To Class: ClassName=ASA Member=Component R3 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R4 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R5 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R7 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R9 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R11 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R12 Res_1206

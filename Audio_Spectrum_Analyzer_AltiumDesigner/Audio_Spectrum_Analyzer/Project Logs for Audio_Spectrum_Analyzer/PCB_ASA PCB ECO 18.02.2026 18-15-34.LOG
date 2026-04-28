@@ -1,0 +1,3 @@
+Change Component Comment : Designator=C13 Old Comment=Cap_1206 New Comment=1u
+Added Pin To Net: NetName=GND Pin=U5-B1_A12
+Added Member To Class: ClassName=ASA Member=Component LS1 Micro

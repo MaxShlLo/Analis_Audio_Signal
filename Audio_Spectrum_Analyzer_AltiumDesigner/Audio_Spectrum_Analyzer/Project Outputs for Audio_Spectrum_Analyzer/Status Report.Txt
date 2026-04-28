@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Audio_Spectrum_Analyzer.PrjPcb]
+   Generated File[PCB_ASA-RoundHoles.TXT]
+   Generated File[PCB_ASA-SlotHoles.TXT]
+   Generated File[PCB_ASA.DRL]
+   Generated File[PCB_ASA.LDP]
+   Generated File[PCB_ASA.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 13:26:30 On 28.04.2026

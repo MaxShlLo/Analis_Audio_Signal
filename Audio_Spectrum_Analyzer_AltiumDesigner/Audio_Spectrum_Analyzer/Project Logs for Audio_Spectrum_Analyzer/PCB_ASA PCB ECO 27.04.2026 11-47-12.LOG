@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=TX Pin=U12-2
+Removed Pin From Net: NetName=RX Pin=U12-3
+Added Pin To Net: NetName=RX Pin=U12-2
+Added Pin To Net: NetName=TX Pin=U12-3
+Added Member To Class: ClassName=ASA Member=Component C4 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C6 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C7 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C8 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C9 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C11 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C12 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C13 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C14 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C15 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C16 1u
+Added Member To Class: ClassName=ASA Member=Component C17 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component C19 Cap_1206
+Added Member To Class: ClassName=ASA Member=Component R6 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R7 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R9 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R10 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R11 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R12 Res_1206
+Added Member To Class: ClassName=ASA Member=Component R14 Res_1206
+Added Member To Class: ClassName=ASA Member=Component U5 USB Type C
+Added Member To Class: ClassName=ASA Member=Component U8 ESD USBLC6-2SC6
+Added Member To Class: ClassName=ASA Member=Component U9 CH340C
+Added Member To Class: ClassName=ASA Member=Component U11 MAX7219
+Added Member To Class: ClassName=ASA Member=Component U12 STM8S103F3P6

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Asus\Desktop\Altium progects\Audio_Spectrum_Analyzer\PCB_ASA.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_asa-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_asa-slotholes.txt|DrillLayers=gtl,gbl

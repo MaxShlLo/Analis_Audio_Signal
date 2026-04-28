@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC17_2 Pin=LS1-1
+Removed Pin From Net: NetName=GND Pin=LS1-2
+Added Component: Designator=LS1(Micro)
+Added Pin To Net: NetName=NetC17_2 Pin=LS1-1
+Added Pin To Net: NetName=GND Pin=LS1-2
