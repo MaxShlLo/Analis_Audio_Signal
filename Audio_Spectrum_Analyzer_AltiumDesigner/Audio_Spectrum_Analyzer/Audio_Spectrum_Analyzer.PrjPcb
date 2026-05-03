@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NXNXKMKW
 
 [Document7]
-DocumentPath=CAM_ASA.Cam
+DocumentPath=CAM_ASA_tastic.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

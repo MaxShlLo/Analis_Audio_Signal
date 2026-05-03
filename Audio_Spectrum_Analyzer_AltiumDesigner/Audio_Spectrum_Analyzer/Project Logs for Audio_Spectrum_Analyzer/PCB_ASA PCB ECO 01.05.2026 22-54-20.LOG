@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=NT1 Old Footprint=Net-Tie New Footprint=NETTIE_SMD
+Change Component Comment : Designator=NT1 Old Comment=Net-Tie New Comment=NETTIE_SMD
+Change Component Kind : Designator=NT1 Old Kind=Standard New Kind=Net Tie
